@@ -1,4 +1,3 @@
-# mini_project2```markdown
 # Image Captioning and Audio Playback Flask App
 
 This project is a Flask-based web application that takes an image as input, generates captions for the image using a trained model, translates the captions into Indian languages, and provides audio playback for each caption.
@@ -108,18 +107,8 @@ Audio for captions is synthesized using **Google Text-to-Speech (gTTS)**.
 
 ---
 
-## Future Enhancements
-
-- Support for additional languages.
-- Improve UI/UX with real-time audio playback and progress indicators.
-- Deploy the app using **Docker** or on cloud platforms like **Heroku** or **AWS**.
-
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## Acknowledgments
 
@@ -131,4 +120,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contribution
 Feel free to fork this repository and submit pull requests for improvements or bug fixes. Contributions are welcome!
-```
